@@ -7,6 +7,8 @@ The paper describing the obtained results was submitted to the Journal of Parall
 # Requirements
 
 * C++11
+* OpenMp
+* MPI
 * Eigen Library (version 3.4)
 
 ### Python Packages (for plots)
