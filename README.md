@@ -40,7 +40,7 @@ Generate Inconsistent Data Sets:
 ./bin/genLSDataSets.exe
 ```
 
-Run Parallel Kaczmarz (exmaple with parallelization inside iterations):
+Run Parallel Kaczmarz (example with parallelization inside iterations):
 
 Run the following command to compute the number of iterations:
 
