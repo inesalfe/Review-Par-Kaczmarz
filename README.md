@@ -15,7 +15,6 @@ The paper describing the obtained results was submitted to the Journal of Parall
 * matplotlib
 * sys
 * scipy
-* scikit-spatial
 
 # Usage
 
