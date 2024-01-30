@@ -1,4 +1,4 @@
-# Parallelization Strategies for the Randomized Kaczmarz Algorithm in Large-Scale Dense Systems
+# Parallelization Strategies for the Randomized Kaczmarz Algorithm on Large-Scale Dense Systems
 
 This repository containts the source code for testing approaches to the parallelization of the Kaczmarz method.
 
